@@ -1,8 +1,6 @@
 import requests
 
 
-import requests
-
 token = '35c8a2d330a8e9c51c00699a379179e4'
 
 response = requests.post('https://pokemonbattle.me:9104/pokemons', 
